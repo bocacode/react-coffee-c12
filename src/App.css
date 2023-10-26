@@ -6,11 +6,11 @@
 
 body {
   box-sizing: border-box;
-  background-color: #7f5d00;
+  background-color: #fbbc9c;
   font-family: 'Roboto', sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #f4eda9;
+  color: #474747;
   padding: 1em;
   display: flex;
   flex-direction: column;
